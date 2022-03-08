@@ -1,8 +1,8 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JIN%20TAEHUN&fontSize=100)
 
-<!--
-**JINTAEHUN94/JINTAEHUN94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<div align="center">
+ <img src="ttps://github-readme-stats.vercel.app/api?username=HUN&theme=dark" />
+ </div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
