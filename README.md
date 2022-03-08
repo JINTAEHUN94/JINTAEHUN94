@@ -8,7 +8,7 @@
 - 🔭 I’m in between jobs.
 
 - 🌱 I’m currently learning
--Some communication skills, analytical skills, distribution management
+- Some communication skills, analytical skills, distribution management
 
 - 💬 Ask me about
--I'm not a developer, but I created a GitHub profile out of thirst for a new study.
+- I'm not a developer, but I created a GitHub profile out of thirst for a new study.
