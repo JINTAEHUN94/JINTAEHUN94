@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JIN%20TAEHUN&fontSize=100)
 
 <div align="center">
- <img src="ttps://github-readme-stats.vercel.app/api?username=HUN&theme=dark" />
+ <img src="https://github-readme-stats.vercel.app/api?username=HUN&theme=dark" />
  </div>
 Here are some ideas to get you started:
 
