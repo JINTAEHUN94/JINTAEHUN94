@@ -3,7 +3,13 @@
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=HUN&theme=dark" />
  </div>
-Here are some ideas to get you started:
+ 
+ <h3 align="center>Ability"
+ 
+ <p align="center">Ability that i have</p>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/Simple&20Analytics-#FF4F64?style=flat-square&logo=Simple&20Analytics&logocolor=white"/></a&nbsp
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
